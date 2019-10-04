@@ -15,7 +15,7 @@ lightcyan = '\x1b[96m'
 yellow = '\x1b[93m'
 os.system('clear')
 print((bold + cyan + '\n________  __      __ \n\\______ \\/  \\    /   |    |  \\   \\/\\/   /\n |    `   \\        / \n/_______  /\\__/\\  /  \n        \\/      \\/   \n' + clear))
-print((lightcyan + bold + '[ Written By DW ] | [Youtube.com/dw]\n' + clear))
+print((lightcyan + bold + '[ Written By DW ] | [Youtube: DW SQUAD]\n' + clear))
 ip = args.target
 api = 'http://ip-api.com/json/'
 try:
